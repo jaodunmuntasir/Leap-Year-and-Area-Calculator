@@ -1,24 +1,6 @@
 module HW1
 import StdEnv
 
-//Please write your name and neptun code here: MD JAODUN MUNTASIR (BVLLR5)
-/*
-Your submission should not have any errors when running the code.
-
-It is possible to get partial points for not working code, but please make sure you comment out the errors.
-
-You'll receive a total of 100 points when you successfully solve both problems, with 50 points awarded for each.
-
-You should not delete anything from the given code, given test cases should stay the same, but you can add 
-your tests as well. Don't change the given function signatures. 
-
-Make sure that you comment all 'Start'-s before submitting the code.
-
-    Hint : 
-        1. To abort with a message you can use the 'abort' function. (= abort "any text").        
-        2. Hint:use toInt,toReal,toString functions when you need them.
-		 
-*/
 /*
 Ex 1: 
  A leap year is a year that contains an additional day, February 29th, making it 366 days long instead of the usual 365 days. 
